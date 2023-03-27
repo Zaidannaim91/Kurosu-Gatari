@@ -1,0 +1,41 @@
+{
+   "title":"[Kurosu Gatari] Wild Chronicles - Darkest Desire",
+   "description":"",
+   "author":"Kurosu Gatari",
+   "artist":"Kurosu Gatari",
+   "cover":"https://i.imgur.com/N0K6Cig.jpg",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/O4oQva3"
+         },
+         "last_updated":1624606143,
+         "title":"Wild Chronicles - Darkest Desire :Chapter 1",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/1dHP9Ma"
+         },
+         "last_updated":1624606143,
+         "title":"Wild Chronicles - Darkest Desire :Chapter 2",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/WdhERrD"
+         },
+         "last_updated":1624606143,
+         "title":"Wild Chronicles - Darkest Desire :Chapter 3",
+         "volume":"3"         
+      },
+      "4":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/BKBMHWs"
+         },
+         "last_updated":1624606143,
+         "title":"Wild Chronicles - Darkest Desire :Chapter 4",
+         "volume":"4"
+      }
+   }
+}
