@@ -1,0 +1,25 @@
+{
+   "title":"[Kurosu Gatari] A Midsummer NTR Dream",
+   "description":"",
+   "author":"Kurosu Gatari",
+   "artist":"Kurosu Gatari",
+   "cover":"https://i.imgur.com/FvErA92.jpg",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/mxNF0X7"
+         },
+         "last_updated":1624606143,
+         "title":"A Midsummer NTR Dream",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/rEHLvas"
+         },
+         "last_updated":1624606143,
+         "title":"A Midsummer NTR Dream 2",
+         "volume":"2"
+      }
+   }
+}
