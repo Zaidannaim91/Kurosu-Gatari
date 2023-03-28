@@ -1,0 +1,57 @@
+{
+   "title":"[Kurosu Gatari] The Seika Girls and the School-Sanctioned Gigolo",
+   "description":"",
+   "author":"Kurosu Gatari",
+   "artist":"Kurosu Gatari",
+   "cover":"https://i.imgur.com/cyqeVeD.jpg",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/adJAoBm"
+         },
+         "last_updated":1624606143,
+         "title":"The Seika Girls and the School-Sanctioned Gigolo 1",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/4aduhIR"
+         },
+         "last_updated":1624606143,
+         "title":"The Seika Girls and the School-Sanctioned Gigolo 2",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/6DwiMqX"
+         },
+         "last_updated":1624606143,
+         "title":"The Seika Girls and the School-Sanctioned Gigolo 3",
+         "volume":"3"
+      },
+      "4":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/kyJC5j9"
+         },
+         "last_updated":1624606143,
+         "title":"The Seika Girls and the School-Sanctioned Gigolo 4",
+         "volume":"4"
+      },
+      "5":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/njInS97"
+         },
+         "last_updated":1624606143,
+         "title":"The Seika Girls and the School-Sanctioned Gigolo 5",
+         "volume":"5"
+      },
+      "6":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/HWSvLBc"
+         },
+         "last_updated":1624606143,
+         "title":"The Seika Girls and the School-Sanctioned Gigolo 6",
+         "volume":"6"
+      }
+   }
+}
